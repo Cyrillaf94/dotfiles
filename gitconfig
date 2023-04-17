@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = cyrillaf@gmail.com
+	name = Cyril Laferriere
